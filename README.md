@@ -1,2 +1,1 @@
-# hello-world
-This repository is for the hello-world
+Hello, my name is Leah Jones. I'm 19 years old, and I have a dog.
